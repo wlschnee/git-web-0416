@@ -1,1 +1,1 @@
-puts "Create Remote"
+puts "made remotely"
